@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "简易锁屏", "简易锁屏.csproj", "{BC6B9561-94EF-45FA-B60A-C8025612164E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6B9561-94EF-45FA-B60A-C8025612164E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6B9561-94EF-45FA-B60A-C8025612164E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6B9561-94EF-45FA-B60A-C8025612164E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6B9561-94EF-45FA-B60A-C8025612164E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6952475-9D40-4AF6-ADA0-DBE76315C01E}
+	EndGlobalSection
+EndGlobal
